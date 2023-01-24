@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/evncode-rw1/static/css/main.3f06dbbb.css",
-    "main.js": "/evncode-rw1/static/js/main.5dd0ce61.js",
-    "static/media/main-header.gif": "/evncode-rw1/static/media/main-header.615de3452539b19eb456.gif",
-    "static/media/header_bg_1.jpg": "/evncode-rw1/static/media/header_bg_1.dcf8f4040f636eddd19c.jpg",
-    "static/media/values.jpg": "/evncode-rw1/static/media/values.096d7b9a81ee18bcb6e8.jpg",
-    "static/media/gallery7.jpg": "/evncode-rw1/static/media/gallery7.1631333a1ec83df5f5a1.jpg",
-    "static/media/gallery9.jpg": "/evncode-rw1/static/media/gallery9.445823b6fc75f999e69a.jpg",
-    "static/media/gallery3.jpg": "/evncode-rw1/static/media/gallery3.839569cb8b57c9680687.jpg",
-    "static/media/gallery2.jpg": "/evncode-rw1/static/media/gallery2.695e89145caea177dfe1.jpg",
-    "static/media/gallery1.jpg": "/evncode-rw1/static/media/gallery1.e179c6f2b614bef50dab.jpg",
-    "static/media/gallery8.jpg": "/evncode-rw1/static/media/gallery8.876905deddf1de94db55.jpg",
-    "static/media/trainer1.jpg": "/evncode-rw1/static/media/trainer1.6e000edfecf48b446bcd.jpg",
-    "static/media/about.jpg": "/evncode-rw1/static/media/about.0a7a6370eb867dd500b9.jpg",
-    "static/media/gallery5.jpg": "/evncode-rw1/static/media/gallery5.18d8f7dce3878f28c0a4.jpg",
-    "static/media/gallery6.jpg": "/evncode-rw1/static/media/gallery6.1110d4860ff60d014419.jpg",
-    "static/media/trainer5.jpg": "/evncode-rw1/static/media/trainer5.6a8eee1279ea02be53c7.jpg",
-    "static/media/gallery4.jpg": "/evncode-rw1/static/media/gallery4.c38d9069611449d661ee.jpg",
-    "static/media/trainer6.jpg": "/evncode-rw1/static/media/trainer6.d060ff98bdc67ac8ddf3.jpg",
-    "static/media/avatar2.jpg": "/evncode-rw1/static/media/avatar2.8fbcd9d41881b442663e.jpg",
-    "index.html": "/evncode-rw1/index.html",
-    "main.3f06dbbb.css.map": "/evncode-rw1/static/css/main.3f06dbbb.css.map",
-    "main.5dd0ce61.js.map": "/evncode-rw1/static/js/main.5dd0ce61.js.map"
+    "main.css": "/static/css/main.3f06dbbb.css",
+    "main.js": "/static/js/main.a90fdff4.js",
+    "static/media/main-header.gif": "/static/media/main-header.615de3452539b19eb456.gif",
+    "static/media/header_bg_1.jpg": "/static/media/header_bg_1.dcf8f4040f636eddd19c.jpg",
+    "static/media/values.jpg": "/static/media/values.096d7b9a81ee18bcb6e8.jpg",
+    "static/media/gallery7.jpg": "/static/media/gallery7.1631333a1ec83df5f5a1.jpg",
+    "static/media/gallery9.jpg": "/static/media/gallery9.445823b6fc75f999e69a.jpg",
+    "static/media/gallery3.jpg": "/static/media/gallery3.839569cb8b57c9680687.jpg",
+    "static/media/gallery2.jpg": "/static/media/gallery2.695e89145caea177dfe1.jpg",
+    "static/media/gallery1.jpg": "/static/media/gallery1.e179c6f2b614bef50dab.jpg",
+    "static/media/gallery8.jpg": "/static/media/gallery8.876905deddf1de94db55.jpg",
+    "static/media/trainer1.jpg": "/static/media/trainer1.6e000edfecf48b446bcd.jpg",
+    "static/media/about.jpg": "/static/media/about.0a7a6370eb867dd500b9.jpg",
+    "static/media/gallery5.jpg": "/static/media/gallery5.18d8f7dce3878f28c0a4.jpg",
+    "static/media/gallery6.jpg": "/static/media/gallery6.1110d4860ff60d014419.jpg",
+    "static/media/trainer5.jpg": "/static/media/trainer5.6a8eee1279ea02be53c7.jpg",
+    "static/media/gallery4.jpg": "/static/media/gallery4.c38d9069611449d661ee.jpg",
+    "static/media/trainer6.jpg": "/static/media/trainer6.d060ff98bdc67ac8ddf3.jpg",
+    "static/media/avatar2.jpg": "/static/media/avatar2.8fbcd9d41881b442663e.jpg",
+    "index.html": "/index.html",
+    "main.3f06dbbb.css.map": "/static/css/main.3f06dbbb.css.map",
+    "main.a90fdff4.js.map": "/static/js/main.a90fdff4.js.map"
   },
   "entrypoints": [
     "static/css/main.3f06dbbb.css",
-    "static/js/main.5dd0ce61.js"
+    "static/js/main.a90fdff4.js"
   ]
 }
